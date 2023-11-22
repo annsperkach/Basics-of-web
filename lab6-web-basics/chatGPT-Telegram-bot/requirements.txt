@@ -1,0 +1,6 @@
+notebook
+ipywidgets
+tqdm
+python-dotenv
+aiogram==2.25
+openai==0.28
